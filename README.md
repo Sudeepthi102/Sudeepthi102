@@ -96,29 +96,23 @@
 
 ---
 
-### 🧩 Problem Solving
+### 🧩 Problem Solving — LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sudeepthinandhikalva?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-- 80+ problems solved on [LeetCode](https://leetcode.com/u/sudeepthinandhikalva/) in Python
-- Comfortable with Arrays, Strings, Hash Tables, Binary Search, Two Pointers, and Recursion
-- Exploring advanced topics like Backtracking and Divide & Conquer
+[View full profile →](https://leetcode.com/u/sudeepthinandhikalva/)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepthi102&show_icons=true&theme=default" alt="Sudeepthi's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeepthi102" alt="Sudeepthi's streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepthi102&show_icons=true&theme=default&count_private=false" alt="Sudeepthi's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepthi102&layout=compact&theme=default" alt="Top languages" height="165" />
 </p>
 
 ---
 
 <p align="center"><i>Open to internships, collaborations, and Systems Engineer opportunities 🚀</i></p>
-
