@@ -1,18 +1,26 @@
 <h1 align="center">Hi there 👋, I'm Sudeepthi</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/186479319?v=4" width="150" style="border-radius: 50%;" alt="Sudeepthi's profile photo" />
+</p>
+
 <h3 align="center">Computer Science Student · Aspiring Systems Engineer · AI/ML & Web Dev Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nandhikaluva-sudeepthi-27a139293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sudeepthi102" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://sudeepthi-showcase-hub.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.youtube.com/@sarikaschannel8502" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://leetcode.com/u/sudeepthinandhikalva/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -91,7 +99,7 @@
 ### 🧩 Problem Solving
 
 <p align="center">
-  <img src="https://leetcode-stats-badge.herokuapp.com/badge?username=sudeepthinandhikalva" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sudeepthinandhikalva?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 - 80+ problems solved on [LeetCode](https://leetcode.com/u/sudeepthinandhikalva/) in Python
@@ -113,3 +121,4 @@
 ---
 
 <p align="center"><i>Open to internships, collaborations, and Systems Engineer opportunities 🚀</i></p>
+
