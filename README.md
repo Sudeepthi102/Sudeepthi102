@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sudeepthi</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/186479319?v=4" width="150" style="border-radius: 50%;" alt="Sudeepthi's profile photo" />
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/186479319?v=4&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="150" alt="Sudeepthi's profile photo" />
 </p>
 
 <h3 align="center">Computer Science Student · Aspiring Systems Engineer · AI/ML & Web Dev Enthusiast</h3>
@@ -109,8 +109,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepthi102&show_icons=true&theme=default&count_private=false" alt="Sudeepthi's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepthi102&layout=compact&theme=default" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepthi102&show_icons=true&theme=default&count_private=false&cache_seconds=86400" alt="Sudeepthi's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeepthi102&layout=compact&theme=default&cache_seconds=86400" alt="Top languages" height="165" />
 </p>
 
 ---
